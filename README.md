@@ -18,6 +18,11 @@ My mission is to deliver high-quality, scalable, and responsive web applications
   <li>Node.js, Express.js</li>
   <li>MongoDB</li>
 </ul>
+<h3>Tools & Platforms</h3>
+<ul>
+  <li>Git & Github</li>
+  <li>Firebase</li>
+</ul>
 
 
 <h3 align="left">Languages and Tools:</h3>
