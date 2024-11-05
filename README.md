@@ -40,6 +40,13 @@ My mission is to deliver high-quality, scalable, and responsive web applications
 
   <li>
     <a href="https://assignment-12-d597e.web.app/">RedLife</a>
+    <h4>Features</h4>
+    <ol>
+      <li><span>Blood Donation Management:</span> User can create or respond to other’s blood donation requests and
+find donors and donation requests.</li>
+<li><span>Dashboard:</span> Have different dashboard for different role users. Here they can see their respective
+options.</li>
+    </ol>
   </li>
 </ul>
 
