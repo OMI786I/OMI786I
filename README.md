@@ -1,7 +1,10 @@
 ![logo](https://github.com/OMI786I/OMI786I/blob/main/Blue%20Textured%20Space%20Landscape%20Hello%20World%20Desktop%20Wallpaper.png)
 <h1 align="center">Hi 👋, I'm Tahid Sohrawardy Omi</h1>
 <h3 align="center">A passionate web developer from bangladesh with love for coding.</h3>
+<p align="left">As a passionate web developer from Bangladesh, my vision is to leverage technology to create innovative, efficient, and user-friendly web solutions that make a meaningful impact. I aim to be at the forefront of web development, building applications that solve real-world problems and provide seamless online experiences for users everywhere.
 
+My mission is to deliver high-quality, scalable, and responsive web applications with a focus on clean and efficient code. By prioritizing user-centric design and collaborating closely with clients, I strive to transform complex ideas into practical, impactful solutions. I am committed to continuous learning to ensure I stay ahead in a rapidly evolving tech landscape.
+</p>
 - 🌱 I’m currently learning **Nextjs, Mongoose, Typescript, Redux**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-475cb.web.app/](https://portfolio-475cb.web.app/)
