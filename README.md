@@ -37,15 +37,27 @@ My mission is to deliver high-quality, scalable, and responsive web applications
 <h2>🎨Projects</h2>
 <p>These are some finished projects that I would happily like to share with you</p>
 <ul>
-
   <li>
     <a href="https://assignment-12-d597e.web.app/">RedLife</a>
     <h4>Features</h4>
    <ol>
-  <li><span>Blood Donation Management:</span> User can create or respond to other’s blood donation requests and
+  <li>
+    User can create or respond to other’s blood donation requests and
 find donors and donation requests.</li>
-  <li><u>Dashboard:</u> Have different dashboard for different role users. Here they can see their respective
+  <li>
+    Have different dashboard for different role users. Here they can see their respective
 options.</li>
+</ol>
+  </li>
+  <li>
+    <a href="https://reset-assignment-11.web.app/">Poralekha</a>
+    <h4>Features</h4>
+   <ol>
+  <li>
+    User can create or respond to other’s assignments.</li>
+  <li>
+   Users can find other’s assignment and it also
+has pagination features.</li>
 </ol>
   </li>
 </ul>
