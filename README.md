@@ -44,7 +44,7 @@ My mission is to deliver high-quality, scalable, and responsive web applications
     <ol>
       <li><span>Blood Donation Management:</span> User can create or respond to other’s blood donation requests and
 find donors and donation requests.</li>
-<li><span>Dashboard:</span> Have different dashboard for different role users. Here they can see their respective
+<li><span style="text-decoration: underline;">Dashboard:</span> Have different dashboard for different role users. Here they can see their respective
 options.</li>
     </ol>
   </li>
