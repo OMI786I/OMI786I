@@ -5,18 +5,19 @@
 
 My mission is to deliver high-quality, scalable, and responsive web applications with a focus on clean and efficient code. By prioritizing user-centric design and collaborating closely with clients, I strive to transform complex ideas into practical, impactful solutions. I am committed to continuous learning to ensure I stay ahead in a rapidly evolving tech landscape.
 </p>
-- 🌱 I’m currently learning **Nextjs, Mongoose, Typescript, Redux**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-475cb.web.app/](https://portfolio-475cb.web.app/)
-
-- 💬 Ask me about **react, expressjs, mongodb**
-
-- 📫 How to reach me **sohrawardy1998@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1mmdYFX4UJDsXowatXEVwXBc2uAAAmwXA/view?usp=sharing](https://drive.google.com/file/d/1mmdYFX4UJDsXowatXEVwXBc2uAAAmwXA/view?usp=sharing)
-
-- ⚡ Fun fact **I love eating and watching anime.**
-
+<h2>Tech Stack</h2>
+<h3>Frontend</h3>
+<ul>
+  <li>HTML, CSS, Javascript</li>
+  <li>React.js</li>
+  <li>Tailwind CSS</li>
+</ul>
+<h3>Backend</h3>
+<ul>
+  <li>Node.js, Express.js</li>
+  <li>MongoDB</li>
+</ul>
 
 
 <h3 align="left">Languages and Tools:</h3>
